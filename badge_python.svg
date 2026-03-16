@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="32" viewBox="0 0 100 32">
+  <rect width="100" height="32" rx="6" fill="#1a1200"/>
+  <rect width="100" height="32" rx="6" fill="none" stroke="#a05000" stroke-width="1" opacity="0.5"/>
+  <defs>
+    <linearGradient id="py-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c85000"/>
+      <stop offset="100%" stop-color="#ff9020"/>
+    </linearGradient>
+    <linearGradient id="py-yellow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff8c00"/>
+      <stop offset="100%" stop-color="#ffb840"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(12.6, 9.835) scale(0.145)">
+    <path fill="url(#py-blue)" d="
+      M 54.919 0
+      C 33.3 0 34.745 9.496 34.745 9.496
+      L 34.769 19.33 h 20.545 v 3.087 H 22.211
+      S 9.168 20.854 9.168 42.699
+      c 0 21.845 12.088 21.07 12.088 21.07
+      h 7.212 v -10.136
+      c 0 0 -0.388 -12.088 11.892 -12.088
+      h 20.498
+      s 11.513 0.186 11.513 -11.124
+      V 11.124
+      C 72.371 11.124 73.545 0 54.919 0
+      Z
+      m -11.44 6.422
+      c 2.051 0 3.715 1.664 3.715 3.715
+      c 0 2.052 -1.664 3.715 -3.715 3.715
+      c -2.052 0 -3.715 -1.663 -3.715 -3.715
+      c 0 -2.051 1.663 -3.715 3.715 -3.715
+      Z
+    "/>
+    <path fill="url(#py-yellow)" d="
+      M 55.459 85.04
+      C 77.078 85.04 75.633 75.544 75.633 75.544
+      L 75.609 65.71 H 55.064 v -3.087 h 33.103
+      S 101.21 64.186 101.21 42.341
+      c 0 -21.845 -12.088 -21.07 -12.088 -21.07
+      h -7.212 v 10.136
+      c 0 0 0.388 12.088 -11.892 12.088
+      H 49.52
+      S 38.007 43.31 38.007 54.62
+      V 73.916
+      C 38.007 73.916 36.833 85.04 55.459 85.04
+      Z
+      m 11.44 -6.422
+      c -2.051 0 -3.715 -1.664 -3.715 -3.715
+      c 0 -2.052 1.664 -3.715 3.715 -3.715
+      c 2.052 0 3.715 1.663 3.715 3.715
+      c 0 2.051 -1.663 3.715 -3.715 3.715
+      Z
+    "/>
+  </g>
+  <text x="59" y="16" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#e07820" text-anchor="middle" dominant-baseline="central">Python</text>
+</svg>
