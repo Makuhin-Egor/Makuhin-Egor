@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="32" viewBox="0 0 100 32">
+  <rect width="100" height="32" rx="6" fill="#1a2035"/>
+  <rect width="100" height="32" rx="6" fill="none" stroke="#264f94" stroke-width="1" opacity="0.4"/>
+  <polygon points="20,8 26.93,12 26.93,20 20,24 13.07,20 13.07,12" fill="none" stroke="#7eb8f7" stroke-width="1.5"/>
+  <text x="20" y="16" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#7eb8f7" text-anchor="middle" dominant-baseline="central">C</text>
+  <text x="59" y="16" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#7eb8f7" text-anchor="middle" dominant-baseline="central">C</text>
+</svg>
