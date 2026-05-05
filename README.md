@@ -6,6 +6,9 @@
 
 ---
 
+## 🫆 About me
+
+
 📍 Saint-Petersburg<br>
 🎓 Software engineering student<br>
 🚀 Learning new things every day!<br>
