@@ -26,4 +26,6 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Makuhin-Egor&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Makuhin-Egor&theme=rogue&custom_title=%20)](https://github.com/ashutosh00710/github-readme-activity-graph)
