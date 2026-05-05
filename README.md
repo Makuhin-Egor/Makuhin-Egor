@@ -8,7 +8,15 @@
 
 📍 Saint-Petersburg<br>
 🎓 Software engineering student<br>
-📬 Telegram: @sTiNkI11<br>
 🚀 Learning new things every day!<br>
 
-<img src="badge_c.svg" height="32"/> &nbsp; <img src="badge_kotlin.svg" height="32"/> &nbsp; <img src="badge_python.svg" height="32"/>
+<img src="badge_c.svg" height="32"/> &nbsp;
+<img src="badge_kotlin.svg" height="32"/> &nbsp;
+<img src="badge_python.svg" height="32"/>
+
+---
+
+## 🌐 Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sTiNkI11)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_egor1ck_)
