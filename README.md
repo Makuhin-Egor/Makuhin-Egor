@@ -11,7 +11,6 @@
 
 📍 Saint-Petersburg<br>
 🎓 Software engineering student<br>
-🚀 Learning new things every day!<br>
 
 <img src="badge_c.svg" height="32"/> &nbsp;
 <img src="badge_kotlin.svg" height="32"/> &nbsp;
